@@ -1,0 +1,1 @@
+﻿mpiexec -n 3 PV-4-MPI.exe

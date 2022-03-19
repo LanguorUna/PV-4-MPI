@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "PV-4-MPI": {
+      "commandName": "Project"
+    },
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "mpiexec",
+      "commandLineArgs": "-n 3 PV-4-MPI.exe",
+      "workingDirectory": "C:\\Users\\Karina\\source\\repos\\PV-4-MPI\\PV-4-MPI\\bin\\Debug\\net6.0"
+    }
+  }
+}
